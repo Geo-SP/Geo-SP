@@ -8,7 +8,7 @@ contribuindo para o desenvolvimento de soluções inovadoras que impactem positi
 ![Geovanne GitHub stats](https://github-readme-stats.vercel.app/api?username=Geo-SP&show_icons=true&theme=dracula)
 ### Tecnologias
 <div style="display: inline_block"><br/>
-  <img align="center" alt="C99" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img align="center" alt="C99" src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 </div>
 
 
